@@ -1,16 +1,23 @@
-### Hi there 👋
+### Shaun
 
-<!--
-**QyperXit/QyperXit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Badge](https://img.shields.io/badge/-Shaun-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/your_twitter_handle)](https://twitter.com/your_twitter_handle)  [![Linkedin Badge](https://img.shields.io/badge/-Shaun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your_linkedin_profile/)](https://www.linkedin.com/in/your_linkedin_profile/) [![Gmail Badge](https://img.shields.io/badge/-your_email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your_email@gmail.com)](mailto:your_email@gmail.com)
 
-Here are some ideas to get you started:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About
+
+-  **Learning :** Front-End Development :zap: | Open-Source :fire:	
+-  **Languages :** HTML, CSS, JavaScript, React ... & more
+-  **Hobbies :** Photography :camera:
+-  **Fact :** First solve the problem, then write the code :heart: 
+-  **Organization :** ShotsByVidz
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![github stats](https://github-readme-stats.vercel.app/api?username=your_github_qyperxit&show_icons=true)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+⭐️ From [Shaun](https://github.com/qyperxit
+
