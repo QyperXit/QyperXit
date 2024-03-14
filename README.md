@@ -1,23 +1,18 @@
-### Shaun
+# Hi there, I'm Shaun! 👋
 
-[![Twitter Badge](https://img.shields.io/badge/-Shaun-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/your_twitter_handle)](https://twitter.com/your_twitter_handle)  [![Linkedin Badge](https://img.shields.io/badge/-Shaun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your_linkedin_profile/)](https://www.linkedin.com/in/your_linkedin_profile/) [![Gmail Badge](https://img.shields.io/badge/-your_email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your_email@gmail.com)](mailto:your_email@gmail.com)
+<h3>I'm a self-taught developer, passionate about front-end. From HTML , CSS, JS to React and beyond, I thrive on learning and building.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+</h3>
 
-### About
+- 🌱 currently learning Front-End Development.
 
--  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
--  **Languages :** HTML, CSS, JavaScript
--  **Hobbies :** Photography & Music :camera: :musical_note:
--  **Fact :** First solve the problem, then write the code :heart: 
--  **Organization :** ShotsByVidz
+<a href="https://www.linkedin.com/in/victor-almeida-barros/?locale=en_US">
+  <img width="400px" src="https://raw.githubusercontent.com/victorabarros/victorabarros/master/assets/linkedin_profile.png" />
+</a>
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=qyperxit&show_icons=true)
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+<a href="https://github.com/victorabarros?tab=repositories">
+  <img width="500px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=qyperxit&count_private=true&layout=compact&hide=makefile,shell&hide_title=true&hide_border=true" />
+</a>
 
 ⭐️ From [Shaun](https://github.com/qyperxit)
-
