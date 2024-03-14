@@ -6,18 +6,18 @@
 
 ### About
 
--  **Learning :** Front-End Development :zap: | Open-Source :fire:	
--  **Languages :** HTML, CSS, JavaScript, React ... & more
--  **Hobbies :** Photography :camera:
+-  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
+-  **Languages :** HTML, CSS, JavaScript
+-  **Hobbies :** Photography & Music :camera: :musical_note:
 -  **Fact :** First solve the problem, then write the code :heart: 
 -  **Organization :** ShotsByVidz
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=your_github_qyperxit&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=qyperxit&show_icons=true)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-⭐️ From [Shaun](https://github.com/qyperxit
+⭐️ From [Shaun](https://github.com/qyperxit)
 
