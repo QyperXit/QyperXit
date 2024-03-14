@@ -1,6 +1,6 @@
 # Hi there, I'm Shaun! 👋
 
-<h3>I'm a self-taught developer, passionate about front-end. From HTML , CSS, JS to React and beyond, I thrive on learning and building.
+<h3>Passionate self-taught developer adept in HTML, CSS, JS, React, and beyond, driven by learning and building.
 
 </h3>
 
