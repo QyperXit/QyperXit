@@ -1,10 +1,10 @@
 # Hi there, I'm Shaun! 👋
 
-<h3>Passionate self-taught developer adept in HTML, CSS, JS, React, and beyond, driven by learning and building.
+<h3>Passionate self-taught developer adept in React,NextJs, and beyond, driven by learning and building.
 
 </h3>
 
-- 🌱 currently learning Front-End Development.
+- 🌱 currently learning Software Development in ASP.NET Core.
 
 
 <a href="https://github.com/victorabarros?tab=repositories">
