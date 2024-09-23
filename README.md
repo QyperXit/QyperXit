@@ -7,8 +7,9 @@
 - 🌱 currently learning Software Development in ASP.NET Core.
 
 
-<a href="https://github.com/victorabarros?tab=repositories">
-  <img width="500px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=qyperxit&count_private=true&layout=compact&hide=makefile,shell&hide_title=true&hide_border=true" />
-</a>
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+
 
 ⭐️ From [Shaun](https://github.com/qyperxit)
