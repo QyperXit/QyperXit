@@ -11,5 +11,9 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QyperXit&langs_count=10&theme=tokyonight&layout=compact" alt="QyperXit :: Top Langs" /></p>
 
+![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
+![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
+![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux)
+![AWS](http://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=Amazon-aws&logoColor=cyan)
 
 ⭐️ From [Shaun](https://github.com/qyperxit)
