@@ -5,7 +5,7 @@
 - 🤖 Currently building Android/Kotlin apps using agentic coding techniques
 - 💻 Experienced in web development with React & Next.js  
 - 🎯 Learning ASP.NET Core for backend development
-- 🚀 Embracing AI-assisted development workflows
+- 🚀 Agentic Engineer workflows
 
 <h4 align="center">Current Tech Focus :rocket:</h4>
 <p align="center">
