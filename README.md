@@ -1,8 +1,7 @@
 # Hi there, I'm Shaun! 👋
 
-<h3>Developer bridging traditional coding with AI-assisted development - from web to mobile</h3>
-
-- 🤖 Currently building Android/Kotlin apps using agentic coding techniques
+<h3>Full-stack developer bridging React, .NET, and Android ecosystems</h3>
+- 🤖 Currently building exploring Android/Kotlin apps
 - 💻 Experienced in web development with React & Next.js  
 - 🎯 Learning ASP.NET Core for backend development
 - 🚀 Agentic Engineer workflows
